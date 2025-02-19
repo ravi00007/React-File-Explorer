@@ -1,0 +1,113 @@
+
+[
+  {
+    "id":1,
+    "name": "public",
+    "isFolder": true,
+    "children": [
+      {
+        "id":2,
+        "name": "index.html",
+        "isFolder": false
+      },
+      {
+        "id":3,
+        "name": "app.js",
+        "isFolder": false
+      },
+      {
+        "id":4,
+        "name": "styles",
+        "isFolder": true,
+        "children": [
+          {
+            "id":5,
+            "name": "styles.css",
+            "isFolder": false
+          }
+        ]
+      },
+      {
+        "id":6,
+        "name": "images",
+        "isFolder": true,
+        "children": [
+          {
+            "id":7,
+            "name": "logo.png",
+            "type": "file",
+            "isFolder": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id":8,
+    "name": "src",
+    "isFolder": true,
+    "children": [
+      {
+        "id":9,
+        "name": "App.css",
+        "type": "file",
+        "isFolder": false
+      },
+      {
+        "id":10,
+        "name": "App.js",
+        "type": "file",
+        "isFolder": false
+      },
+      {
+        "id":11,
+        "name": "data.json",
+        "type": "file",
+        "isFolder": false
+      },
+      {
+        "id":12,
+        "name": "index.css",
+        "type": "file",
+        "isFolder": false
+      },
+      {
+        "id":13,
+        "name": "logo.svg",
+        "type": "file",
+        "isFolder": false
+      },
+      {
+        "id":14,
+        "name": "reportWebVitals.js",
+        "type": "file",
+        "isFolder": false
+      },
+      {
+        "id":15,
+        "name": "setupTests.js",
+        "isFolder": false
+      }
+    ]
+  },
+  {
+    "id":16,
+    "name": ".gitignore",
+    "isFolder": false
+  },
+  {
+    "id":17,
+    "name": "package-lock.json",
+    "isFolder": false
+  },
+  {
+    "id":18,
+    "name": "package.json",
+    "isFolder": false
+  },
+  {
+    "id":19,
+    "name": "README.md",
+    "isFolder": false
+  }
+]
